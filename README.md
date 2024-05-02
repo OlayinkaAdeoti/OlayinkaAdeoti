@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlayinkaAdeoti
 - 👀 I’m a frontend developer
-- 🌱 I’m currently javascript and React
+- 🌱 I’m currently learning javascript and React
 - 💞️ I’m looking to collaborate on various aspect of web development projects
 - 📫 How to reach me adeotihameed90@gmail.com
 
